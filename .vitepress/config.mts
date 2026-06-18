@@ -4,6 +4,7 @@ export default defineConfig({
   title: 'steamworks-rs API 参考',
   description: 'steamworks-rs fork 版本完整 API 参考手册',
   lang: 'zh-CN',
+  outDir: './dist',
   themeConfig: {
     nav: [
       { text: 'GitHub', link: 'https://github.com/zhMoody/steamworks-rs' },
